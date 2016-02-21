@@ -24,9 +24,15 @@ crear un nuevo branch para desarrollar la nuevas funcionalidades.
 How do the diagrams help you visualize the branch structure?
 
 De un vistazo, permite ver la estructura de ramas de nuestro proyecto.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+Unir la funcionalidad de una rama a la otra. Se representan con dos flechas para indicar que el 
+commit de la union tiene dos padres.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
 
+Los mergins automaticos son mas sencillos, aunque tiene menos control sobre el resultado final. Por otra
+parte, los automaticos hay veces que no se pueden realizar por existir conflictos.
