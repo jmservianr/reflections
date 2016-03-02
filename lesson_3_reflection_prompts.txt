@@ -13,3 +13,8 @@ brach: una nueva rama de modificaciones en un repositorio, sin tocar otras (por 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 detectar y resolver un conflicto a la hora de combinar los el repositorio local y el remoto.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Hay mucha diferencia a la hora de controlar versiones usando herramientas como git; sin ellas sería mucho mas dificil.
+
