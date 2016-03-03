@@ -18,3 +18,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 Hay mucha diferencia a la hora de controlar versiones usando herramientas como git; sin ellas sería mucho mas dificil.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+En general siempre es mejor hacer los cambios en una rama aparte. Despues, antes de realizar el merge, se puede compartir (pull resquest) el trabajo con
+los colaboradores para evitar errores en las nuevas versiones.
+
+
+
