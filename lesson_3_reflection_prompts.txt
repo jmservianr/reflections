@@ -33,4 +33,4 @@ y esta linea esta en un nuevo brach que acabo de abrir.
 y esta otra es añadida despues de un commit de la anterior linea.
 
 
-
+ahora estoy en master y hago un commit.
